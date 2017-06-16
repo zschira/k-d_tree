@@ -9,8 +9,9 @@ typedef struct node{
 	int size;
 }node;
 
-void initRoot(node **root, int *keys, int size);
-void addNode(node **root, int *keys);
+void buildTree(int *points, node **root);
+//void initRoot(node **root, int *keys, int size);
+//void addNode(node **root, int *keys);
 void deleteTree(node **root);
 void rangeSearch(node **root, int *high, int *low, int counter);
 int squaredDistance(int *point1, int *point2, int length);
