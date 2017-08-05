@@ -138,39 +138,4 @@ int squaredDistance(int *point1, int *point2, int length) {
 	return SD;
 }
 
-int cmpfunc (const void * a, const void * b) {
-   return ( *(int*)a - *(int*)b );
-}
 
-void buildTree(int *points, node **root) {
-	int counter = 0;
-
-}
-
-void split(int **points, int counter, int length) {
-	int temp[length][4];
-	int currentKey = counter%3;
-	memcpy(&(temp[0][0]), points[0][currentKey], length*sizeof(int));
-	for(int i=0;i<3;i++) {
-		memcpy(&(temp[0][i+1]), points[0][i], length*sizeof(int));
-	}
-	qsort(temp, length, 4*sizeof(int), )
-}
-
-
-float fpMedian(float *array, int size){
-   float median=0;
-
-   quicksort( array, 0, size-1);
-
-   if((size)%2==0) { /* even */
-      /* printf("even\n"); */
-      median = 0.5f*(array[(size)/2-1] + array[(size)/2] );      /* if size even */
-   }
-   else {
-      /* printf("odd\n"); */
-      /* median = array[(size)/2-1] ;} */
-      median = array[(size)/2];
-   }
-   return median;
-}
