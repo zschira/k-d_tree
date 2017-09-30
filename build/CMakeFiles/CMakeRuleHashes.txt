@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+6bff1347bc22c64dc7683e613f9fd4a4 CMakeFiles/rpi
+6783eaf6194fda024adac0ffcef0a538 CMakeFiles/rpi-complete
+855738f2b1e9d7f581c3b2ed7ff6c4f7 rpi/stamp/rpi-build
+fd6e24eb7a6bc61c01c02bfd5b523004 rpi/stamp/rpi-configure
+3283e824dfffd767aa80a68b7bbf3873 rpi/stamp/rpi-download
+42e272d1e136748d4a88200ada03f043 rpi/stamp/rpi-install
+5365afdd4c8ee04af1090096315435f5 rpi/stamp/rpi-mkdir
+8ebd64ef0b9ccc2ae67736190dd3eeb2 rpi/stamp/rpi-patch
+b15faafd5878e4822d73f8f72e04229e rpi/stamp/rpi-update

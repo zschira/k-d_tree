@@ -1,0 +1,1 @@
+/home/zach/rpi/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-gcc  --sysroot=/home/zach/rpi/rootfs    CMakeFiles/rpiExe.dir/home/zach/Documents/personal/k-d_tree/src/tree.c.o CMakeFiles/rpiExe.dir/home/zach/Documents/personal/k-d_tree/src/main.c.o  -o rpiExe -rdynamic 

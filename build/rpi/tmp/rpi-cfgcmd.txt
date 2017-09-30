@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_TOOLCHAIN_FILE=/home/zach/rpi/rpi-linux-toolchain.cmake;-GUnix Makefiles;/home/zach/Documents/personal/k-d_tree/build/rpi/'

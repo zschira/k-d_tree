@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/CMakeFiles/rpi"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/CMakeFiles/rpi.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/CMakeFiles/rpi-complete.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/rpi/stamp/rpi-install.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/rpi/stamp/rpi-mkdir.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/rpi/stamp/rpi-download.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/rpi/stamp/rpi-update.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/rpi/stamp/rpi-patch.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/rpi/stamp/rpi-configure.rule"
+		},
+		{
+			"file" : "/home/zach/Documents/personal/k-d_tree/build/rpi/stamp/rpi-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rpi"
+		],
+		"name" : "rpi"
+	}
+}

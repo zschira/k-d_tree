@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zach/Documents/personal/k-d_tree/src/main.c
+stdio.h
+-
+tree.h
+/home/zach/Documents/personal/k-d_tree/src/tree.h
+
+/home/zach/Documents/personal/k-d_tree/src/tree.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+tree.h
+/home/zach/Documents/personal/k-d_tree/src/tree.h
+
+/home/zach/Documents/personal/k-d_tree/src/tree.h
+
